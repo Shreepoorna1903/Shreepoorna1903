@@ -38,7 +38,7 @@ SQL · NoSQL · Git · GitHub · Prometheus · Grafana
 NLP pipeline on **1.5M+ news articles** using FinBERT, VADER, and Transformer embeddings to predict next-day stock movements with noise-aware labeling and CUDA-accelerated fine-tuning.
 
 
-### 🧠 [Layer-wise Probing of BERT for NER](https://github.com/Shreepoorna1903/bert-layerwise-probing-ner)
+### 🧠 [Layer-wise Probing of BERT for NER](https://github.com/Shreepoorna1903/Probing-Transformer-Representations-for-Named-Entity-Recognition-NER-)
 
 Layer-wise probing of frozen BERT on CoNLL-2003, achieving **97.35% token-level accuracy**, revealing where semantic information emerges inside transformer layers.
 
