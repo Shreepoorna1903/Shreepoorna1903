@@ -33,7 +33,7 @@ SQL · NoSQL · Git · GitHub · Prometheus · Grafana
 ### 📈 [News Sentiment Analysis for Stock Movement Prediction](https://github.com/Shreepoorna1903/News-Sentiment-Analysis-for-Predicting-Next-Day-Stock-Movements)
 
 - 📄 [Final Report](https://github.com/Shreepoorna1903/News-Sentiment-Analysis-for-Predicting-Next-Day-Stock-Movements/blob/main/report/Final_Report_CS6120.pdf)
-- 📓 [Colab Notebook](https://github.com/Shreepoorna1903/News-Sentiment-Analysis-for-Predicting-Next-Day-Stock-Movements/blob/main/notebook/NLP_Project_Colab.ipynb)
+- 📓 [Colab Notebook](https://github.com/Shreepoorna1903/News-Sentiment-Analysis-for-Predicting-Next-Day-Stock-Movements/blob/main/notebook/NLP_Project.ipynb)
 
 NLP pipeline on **1.5M+ news articles** using FinBERT, VADER, and Transformer embeddings to predict next-day stock movements with noise-aware labeling and CUDA-accelerated fine-tuning.
 
