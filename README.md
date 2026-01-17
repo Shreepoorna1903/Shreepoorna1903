@@ -40,9 +40,14 @@ NLP pipeline on **1.5M+ news articles** using FinBERT, VADER, and Transformer em
 
 ### 🧠 [Layer-wise Probing of BERT for NER](https://github.com/Shreepoorna1903/Probing-Transformer-Representations-for-Named-Entity-Recognition-NER-)
 
+- 📓 [Colab Notebook](https://github.com/Shreepoorna1903/Probing-Transformer-Representations-for-Named-Entity-Recognition-NER-/blob/main/notebook/Bert_probe.ipynb)
+  
 Layer-wise probing of frozen BERT on CoNLL-2003, achieving **97.35% token-level accuracy**, revealing where semantic information emerges inside transformer layers.
 
 ### 🧬 [Melanoma Skin Cancer Detection Using CNN](https://github.com/Shreepoorna1903/melanoma-skin-cancer-detection-cnn)
+
+- 📓 [Colab Notebook](https://github.com/Shreepoorna1903/melanoma-skin-cancer-detection-cnn/blob/main/notebook/Melanoma_Skin_Cancer_Detection.ipynb)
+  
 Deep CNN with **26.3M parameters**, reaching **97% accuracy** across 9 melanoma classes using TensorFlow/Keras with class-imbalance handling and augmentation.
 
 ### ☁️ Distributed Storage Systems @ IBM Cloud
