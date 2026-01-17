@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/passportSize.png" width="160" height="160" style="border-radius: 50%;" />
-</p>
 
 👋 Hello World! I'm Shreepoorna Purohit  
 🎓 Graduate Student – M.S. in Computer Science @ Northeastern University (Boston)  
