@@ -73,7 +73,7 @@ Designed and deployed Go-based microservices managing distributed storage lifecy
 ## 📫 Connect With Me
 🔗 LinkedIn: https://linkedin.com/in/shreepoorna-dp-870737192  
 📧 Email: purohit.shr@northeastern.edu  
-🌐 GitHub: https://github.com/YOUR_USERNAME
+🌐 GitHub: https://github.com/Shreepoorna1903
 
 ---
 
