@@ -38,8 +38,10 @@ SQL · NoSQL · Git · GitHub · Prometheus · Grafana
 NLP pipeline on **1.5M+ news articles** using FinBERT, VADER, and Transformer embeddings to predict next-day stock movements with noise-aware labeling and CUDA-accelerated fine-tuning.
 
 
-### 🧠 Probing Transformer Representations for NER
+### 🧠 [Layer-wise Probing of BERT for NER](https://github.com/Shreepoorna1903/bert-layerwise-probing-ner)
+
 Layer-wise probing of frozen BERT on CoNLL-2003, achieving **97.35% token-level accuracy**, revealing where semantic information emerges inside transformer layers.
+
 
 ### 🧬 Advanced Melanoma Skin Cancer Detection
 Deep CNN with **26.3M parameters**, reaching **97% accuracy** across 9 melanoma classes using TensorFlow/Keras with class-imbalance handling and augmentation.
