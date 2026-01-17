@@ -46,7 +46,7 @@ Layer-wise probing of frozen BERT on CoNLL-2003, achieving **97.35% token-level 
 
 ### 🧬 [Melanoma Skin Cancer Detection Using CNN](https://github.com/Shreepoorna1903/Advanced-Melanoma-Skin-Cancer-Detection-with-Deep-Learning)
 
-- 📓 [Colab Notebook](https://github.com/Shreepoorna1903/Advanced-Melanoma-Skin-Cancer-Detection-with-Deep-Learning/notebook/Melanoma_Skin_Cancer_Detection.ipynb)
+- 📓 [Colab Notebook](https://github.com/Shreepoorna1903/Advanced-Melanoma-Skin-Cancer-Detection-with-Deep-Learning/blob/main/notebook/Melanoma_Skin_Cancer_Detection.ipynb)
   
 Deep CNN with **26.3M parameters**, reaching **97% accuracy** across 9 melanoma classes using TensorFlow/Keras with class-imbalance handling and augmentation.
 
