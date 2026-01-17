@@ -42,8 +42,7 @@ NLP pipeline on **1.5M+ news articles** using FinBERT, VADER, and Transformer em
 
 Layer-wise probing of frozen BERT on CoNLL-2003, achieving **97.35% token-level accuracy**, revealing where semantic information emerges inside transformer layers.
 
-
-### 🧬 Advanced Melanoma Skin Cancer Detection
+### 🧬 [Melanoma Skin Cancer Detection Using CNN](https://github.com/Shreepoorna1903/melanoma-skin-cancer-detection-cnn)
 Deep CNN with **26.3M parameters**, reaching **97% accuracy** across 9 melanoma classes using TensorFlow/Keras with class-imbalance handling and augmentation.
 
 ### ☁️ Distributed Storage Systems @ IBM Cloud
