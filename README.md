@@ -59,17 +59,6 @@ Designed and deployed Go-based microservices managing distributed storage lifecy
 • Built AI-driven attendance system using FaceNet + GMM voice recognition  
 • Achieved 95% biometric authentication accuracy on 10K+ samples
 
----
-
-## 📊 GitHub Stats
-<!-- Optional: Enable after pushing -->
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
--->
-
----
-
 ## 📫 Connect With Me
 🔗 LinkedIn: https://linkedin.com/in/shreepoorna-dp-870737192  
 📧 Email: purohit.shr@northeastern.edu  
